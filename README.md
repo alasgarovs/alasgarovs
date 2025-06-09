@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sabuhi
 
-<!--
-**alasgarovs/alasgarovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on something :D, my current location is Baku.
+- 🌱 I’m currently learning Low-Level programming and Software Architecture.
+- 💬 Ask me about Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sabuhi-alasgarov)
+- [Personal Website/Blog](https://www.alasgarovs.com)
