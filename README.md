@@ -1,7 +1,7 @@
 # Hi, I'm Sabuhi
 
-As a Software Engineer with 4 years of experience, I have made contributions to various applications in Python. In addition to my development background I have 2 years of experience as an IT specialist in network security, infrastructure management and technical support. I'm interested in Low-Level programming, Open Source projects and Linux distros.
+As a software engineer with 4 years of experience, I have made contributions to various applications in Python. In addition to my development background I have 3 years of experience as an IT specialist in network security, infrastructure management and technical support. I'm interested in low-level programming, open source projects and linux distros.
 
-- 🔭 I’m currently working on something :D, my current location is Baku.
-- 🌱 I’m currently learning Low-Level programming and Software Architecture.
+- 🔭 I’m currently working on something :D
+- 🌱 I’m currently learning low-level programming and software architecture.
 - 💬 Ask me about Python.
